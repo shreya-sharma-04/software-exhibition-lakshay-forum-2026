@@ -1,0 +1,6 @@
+streamlit
+scikit-learn==1.6.1
+joblib
+pandas
+requests
+beautifulsoup4
